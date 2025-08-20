@@ -23,9 +23,11 @@ This project demonstrates <i>weather prediction</i> using a simple quadratic and
 ---
 
 ## 🛠️ Tech Stack
-- <i>Language</i>: Python
-- <i>Libraries</i>: NumPy, Matplotlib
-<br>
-Install dependencies
-<br>
+
+- **Language**: Python  
+- **Libraries**: NumPy, Matplotlib  
+
+### 📦 Install Dependencies
+
+```bash
 pip install numpy matplotlib
