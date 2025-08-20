@@ -27,3 +27,5 @@ This project demonstrates <i>weather prediction</i> using a simple quadratic and
 - <i>Libraries</i>: NumPy, Matplotlib
 <br>
 Install dependencies
+<br>
+pip install numpy matplotlib
